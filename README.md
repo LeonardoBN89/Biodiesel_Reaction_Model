@@ -15,3 +15,6 @@ The chemical reactions and species in this model are:
   Applying chemical reactions principles and after algeabric manipulation, the system of differential equations is:
 
 <img src="https://user-images.githubusercontent.com/144928827/267764005-3fedb731-677b-4d6e-bf11-f9c894528643.png"  width="800">
+
+where:
+- K<sub>d</sub> is a parameter of enzymatic thermal deactivation (hotter temperatures deactivate the enzyme faster);
