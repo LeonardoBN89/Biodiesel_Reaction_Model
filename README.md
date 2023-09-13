@@ -32,4 +32,6 @@ and the equilibrium constants:
 where:
 
 - K<sub>d</sub> is a parameter of enzymatic thermal deactivation (hotter temperatures deactivate the enzyme faster);
-- K<sub>in</sub> is a parameter of enzymatic deactivation by ethanol (higher concentration of ethanol deactivates the enzyme more);
+- K<sub>in</sub> is a parameter of enzymatic deactivation by ethanol (higher concentration of ethanol deactivates the enzyme more).
+
+The unknown parameters (A<sub>i</sub>, Ea<sub>i</sub> and K<sub>i</sub>) were found 
