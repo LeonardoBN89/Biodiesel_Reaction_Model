@@ -4,7 +4,7 @@ The chemical reactions and species in this model are:
 
 
 
-![reacoes](https://user-images.githubusercontent.com/144928827/267758749-8568a1da-7c93-49cf-b309-85cc78c320a3.png){ width=50% }
+![reacoes](https://user-images.githubusercontent.com/144928827/267758749-8568a1da-7c93-49cf-b309-85cc78c320a3.png){:height="36px" width="36px"}
 - Tri: triacylglycerol (in this case, forrage raddish oil; it can release up to three chains to esther);
 - Di: diacylglycerol 
 - Mo: monoacylglycerol
