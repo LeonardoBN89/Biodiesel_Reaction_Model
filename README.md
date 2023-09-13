@@ -2,10 +2,8 @@
 In this work, it was developed a mathematical model for enzymatic production of biodiesel. Intermediate enzymatic complexes were considered.
 The chemical reactions and species in this model are:
 
-<img src="https://user-images.githubusercontent.com/144928827/267758749-8568a1da-7c93-49cf-b309-85cc78c320a3.png"  width="600">
+<img src="https://user-images.githubusercontent.com/144928827/267764111-28cac288-4b19-404e-95eb-766036a0c7f3.png"  width="600">
 
-
-![reacoes](https://user-images.githubusercontent.com/144928827/267758749-8568a1da-7c93-49cf-b309-85cc78c320a3.png)
 - Tri: triacylglycerol (in this case, forrage raddish oil; it can release up to three chains to esther);
 - Di: diacylglycerol 
 - Mo: monoacylglycerol
@@ -16,5 +14,3 @@ The chemical reactions and species in this model are:
 
   Applying chemical reactions principles and after algeabric manipulation, the system of differential equations is:
 
-
-<img src="https://user-images.githubusercontent.com/144928827/267758749-8568a1da-7c93-49cf-b309-85cc78c320a3.png"  width="120" height="120">
