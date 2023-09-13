@@ -26,7 +26,7 @@ The apparent rate of the reactions are given by a combination of the k parameter
 
 and the equilibrium constants:
 
-<img src="https://user-images.githubusercontent.com/144928827/267767454-4bcaf107-4031-4c0a-8cb3-720eb89b8dd9.png"  width="150">
+<img src="https://user-images.githubusercontent.com/144928827/267767454-4bcaf107-4031-4c0a-8cb3-720eb89b8dd9.png"  width="200">
 where:
 
 - K<sub>d</sub> is a parameter of enzymatic thermal deactivation (hotter temperatures deactivate the enzyme faster);
