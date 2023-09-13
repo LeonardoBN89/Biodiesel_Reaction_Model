@@ -22,9 +22,12 @@ and the common denominator for the equations is:
 
 The apparent rate of the reactions are given by a combination of the k parameters:
 
-<img src="https://user-images.githubusercontent.com/144928827/267766828-b25d7523-76f3-47a2-85d1-fe0a100bab55.png"  width="300">
+<img src="https://user-images.githubusercontent.com/144928827/267766828-b25d7523-76f3-47a2-85d1-fe0a100bab55.png"  width="250">
 
+and the equilibrium constants:
 
+<img src="https://user-images.githubusercontent.com/144928827/267767454-4bcaf107-4031-4c0a-8cb3-720eb89b8dd9.png"  width="250">
 where:
+
 - K<sub>d</sub> is a parameter of enzymatic thermal deactivation (hotter temperatures deactivate the enzyme faster);
 - K<sub>in</sub> is a parameter of enzymatic deactivation by ethanol (higher concentration of ethanol deactivates the enzyme more);
