@@ -13,4 +13,5 @@ The chemical reactions and species in this model are:
 
   Applying chemical reactions principles and after algeabric manipulation, the system of differential equations is:
 
-  <img src="[https://github.com/your_image.png](https://user-images.githubusercontent.com/144928827/267758749-8568a1da-7c93-49cf-b309-85cc78c320a3.png)https://user-images.githubusercontent.com/144928827/267758749-8568a1da-7c93-49cf-b309-85cc78c320a3.png" alt="Your image title" width="250"/>
+![](https://user-images.githubusercontent.com/144928827/267758749-8568a1da-7c93-49cf-b309-85cc78c320a3.png)
+<img src="[https://user-images.githubusercontent.com/144928827/267758749-8568a1da-7c93-49cf-b309-85cc78c320a3.png]"  width="120" height="120">
