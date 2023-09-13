@@ -22,8 +22,7 @@ and the common denominator for the equations is:
 
 The apparent rate of the reactions are given by a combination of the k parameters:
 
-<img src="https://user-images.githubusercontent.com/144928827/267766828-b25d7523-76f3-47a2-85d1-fe0a100bab55.png
-"  width="400">
+<img src="https://user-images.githubusercontent.com/144928827/267766828-b25d7523-76f3-47a2-85d1-fe0a100bab55.png"  width="400">
 
 
 where:
