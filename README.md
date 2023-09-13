@@ -20,13 +20,15 @@ and the common denominator for the equations is:
 
 <img src="https://user-images.githubusercontent.com/144928827/267766223-dc4a466a-228e-4dce-8674-d085aa21196d.png"  width="800">
 
-The apparent rate of the reactions are given by a combination of the k parameters:
+The apparent rate of the reactions are given by a combination of the k parameters and will be treated this way, also being temperature dependent as an Arrhenius equation:
 
-<img src="https://user-images.githubusercontent.com/144928827/267766828-b25d7523-76f3-47a2-85d1-fe0a100bab55.png"  width="250">
+<img src="https://user-images.githubusercontent.com/144928827/267766828-b25d7523-76f3-47a2-85d1-fe0a100bab55.png"  width="280">
+
+<img src="https://user-images.githubusercontent.com/144928827/267772024-5b9984a6-f022-4599-ae08-6a271fa2dd7f.png"  width="190">
 
 and the equilibrium constants:
 
-<img src="https://user-images.githubusercontent.com/144928827/267767454-4bcaf107-4031-4c0a-8cb3-720eb89b8dd9.png"  width="200">
+<img src="https://user-images.githubusercontent.com/144928827/267767454-4bcaf107-4031-4c0a-8cb3-720eb89b8dd9.png"  width="190">
 where:
 
 - K<sub>d</sub> is a parameter of enzymatic thermal deactivation (hotter temperatures deactivate the enzyme faster);
